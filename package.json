@@ -33,7 +33,7 @@
     "pretty-quick": "^2.0.1",
     "prop-types": "^15.7.2",
     "querystring": "^0.2.0",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "uuid": "^3.3.3",
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.10",
